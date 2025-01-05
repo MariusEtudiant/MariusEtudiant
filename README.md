@@ -6,7 +6,7 @@ Je suis un étudiant en licence **Intelligence Artificielle** à l'Université C
 
 - 🌱 Je me forme actuellement en IA et je me spécialise en **Python** et **R**.
 - 💼 À la recherche d’opportunités de **stage** en data science.
-- 🎓 Étudiant en Licence d’IA - Université Côte d’Azur.
+- 🎓 Étudiant en Licence d’IA - [Université Sophia Antipolis](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle)
 - 🌐 Découvrez [mon portfolio](https://mariuscsm06.github.io/react-portfolio/) !
 
 ---
