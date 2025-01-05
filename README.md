@@ -31,7 +31,7 @@ Voici quelques faits sur moi :
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
 ![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface)
 ![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
 
