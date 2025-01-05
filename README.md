@@ -6,7 +6,7 @@ Je suis un étudiant en licence **Intelligence Artificielle** à l'Université C
 Toujours curieux et motivé, j’aime apprendre de nouvelles compétences et relever des défis intéressants. 
 Voici quelques faits sur moi :
 
-- 🌱 Je me forme actuellement en IA et je me spécialise en **Python** et **R**.
+- 🌱 Je me forme activement en intelligence artificielle, où je conçois et déploie des modèles de **machine learning** et de **deep learning**, tout en me spécialisant dans les langages **Python** et **R**.
 - 💼 À la recherche d’opportunités de **stage** en data science.
 - 🎓 Étudiant en Licence d’IA - [Université Sophia Antipolis](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle)
 - 🌐 Découvrez [mon portfolio](https://mariuscsm06.github.io/react-portfolio/) !
@@ -15,7 +15,7 @@ Voici quelques faits sur moi :
 
 ## 🔧 Compétences
 
-### Langages de Programmation
+### Langages de Programmation & SKILLS
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
