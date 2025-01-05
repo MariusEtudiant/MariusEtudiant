@@ -2,7 +2,7 @@
 
 ## 🚀 À propos de moi
 
-Je suis un étudiant en licence **Intelligence Artificielle** à l'Université Côte d'Azur, passionné par la technologie et le développement. 
+Je suis un étudiant en licence **Intelligence Artificielle** à l'Université Nice Sophia Antipolis, passionné par la technologie et le développement. 
 Toujours curieux et motivé, j’aime apprendre de nouvelles compétences et relever des défis intéressants. 
 Voici quelques faits sur moi :
 
