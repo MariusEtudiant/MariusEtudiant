@@ -19,7 +19,10 @@ Voici quelques faits sur moi :
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![OOP](https://img.shields.io/badge/-Programmation%20Orient%C3%A9e%20Objet-333333?style=flat&logo=c%2B%2B)
+![Statistiques](https://img.shields.io/badge/-Statistiques-333333?style=flat&logo=r)
+
+
 
 
 ### Machine Learning & IA
@@ -29,7 +32,10 @@ Voici quelques faits sur moi :
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat&logo=nltk)
+![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface)
+![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
+
+
 
 ---
 
