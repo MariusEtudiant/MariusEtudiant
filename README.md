@@ -41,6 +41,9 @@ Voici quelques faits sur moi :
 
 ## 📚 Projets
 
+### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
+Développer un système capable de prédire si une paire de rapports de bug soumis sont dupliqués ou non. Ce système pourra être intégré dans un BTS pour identifier automatiquement les rapports dupliqués et améliorer la gestion des bugs.
+
 ### [Chat Killer](https://github.com/Mariuscsm06/chat-killer)
 Un projet de programmation système pour ma licence 2. Il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
 
