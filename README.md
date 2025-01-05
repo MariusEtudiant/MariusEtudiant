@@ -17,28 +17,27 @@ Je suis un étudiant en licence **Intelligence Artificielle** à l'Université C
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 
-### Technologies & Outils
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+### Machine Learning & IA
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat&logo=nltk)
 
 ---
 
 ## 📚 Projets
 
 ### [Chat Killer](https://github.com/Mariuscsm06/chat-killer)
-Un projet de programmation système pour ma licence d'informatique. Il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
-
-### [Mon Portfolio](https://github.com/Mariuscsm06/personal-portfolio)
-Un portfolio personnel développé en React, présentant mes projets, compétences et expériences.
+Un projet de programmation système pour ma licence 2. Il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
 
 ### [Projet IA](https://github.com/utilisateur/projet2)
 Un projet explorant les concepts d’IA à base de graphes d'états, utilisant Graphviz et DOT.
+
+### [Mon Portfolio](https://github.com/Mariuscsm06/personal-portfolio)
+Un portfolio personnel développé en React, présentant mes projets, compétences et expériences.
 
 ---
 
@@ -59,7 +58,7 @@ Un projet explorant les concepts d’IA à base de graphes d'états, utilisant G
 
 ## 📧 Contact
 
-Pour toute question ou opportunité, vous pouvez me joindre par email à marius.casamian06@gmail.com.
+Pour toute question ou opportunité, vous pouvez me joindre par email à marius.casamian@etu.unice.fr
 
 ---
 
