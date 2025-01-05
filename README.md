@@ -16,6 +16,9 @@ Je suis un étudiant en licence **Intelligence Artificielle** à l'Université C
 ### Langages de Programmation
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
 
 ### Machine Learning & IA
 
