@@ -2,7 +2,9 @@
 
 ## 🚀 À propos de moi
 
-Je suis un étudiant en licence **Intelligence Artificielle** à l'Université Côte d'Azur, passionné par la technologie et le développement. Toujours curieux et motivé, j’aime apprendre de nouvelles compétences et relever des défis intéressants. Voici quelques faits sur moi :
+Je suis un étudiant en licence **Intelligence Artificielle** à l'Université Côte d'Azur, passionné par la technologie et le développement. 
+Toujours curieux et motivé, j’aime apprendre de nouvelles compétences et relever des défis intéressants. 
+Voici quelques faits sur moi :
 
 - 🌱 Je me forme actuellement en IA et je me spécialise en **Python** et **R**.
 - 💼 À la recherche d’opportunités de **stage** en data science.
