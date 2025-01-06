@@ -45,8 +45,12 @@ Voici quelques faits sur moi :
 ### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
 Développer un système capable de prédire si une paire de rapports de bug soumis sont dupliqués ou non. Ce système pourra être intégré dans un BTS pour identifier automatiquement les rapports dupliqués et améliorer la gestion des bugs.
 
+### [INTRO IA TP](https://github.com/MariusEtudiant/INTRO-IA-TP_L2)
+Ce dépôt regroupe divers travaux pratiques réalisés dans le cadre de ma formation en IA, abordant des thèmes variés.
+Chaque projet inclut des scripts, des notebooks explicatifs, et une analyse des résultats.
+
 ### [Chat Killer](https://github.com/Mariuscsm06/chat-killer)
-Un projet de programmation système pour ma licence 2. Il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
+Un projet de programmation système pour ma licence 2. Client-serveur, il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
 
 ### [Projet IA](https://github.com/utilisateur/projet2)
 Un projet explorant les concepts d’IA à base de graphes d'états, utilisant Graphviz et DOT.
