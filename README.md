@@ -18,6 +18,7 @@ Voici quelques faits sur moi :
 ### Langages de Programmation & SKILLS
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
+![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![OOP](https://img.shields.io/badge/-Programmation%20Orient%C3%A9e%20Objet-333333?style=flat&logo=c%2B%2B)
 ![Statistiques](https://img.shields.io/badge/-Statistiques-333333?style=flat&logo=r)
