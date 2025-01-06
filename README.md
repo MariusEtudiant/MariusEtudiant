@@ -45,6 +45,10 @@ Voici quelques faits sur moi :
 ### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
 Développer un système capable de prédire si une paire de rapports de bug soumis sont dupliqués ou non. Ce système pourra être intégré dans un BTS pour identifier automatiquement les rapports dupliqués et améliorer la gestion des bugs.
 
+### [Predict Loan Approval Kaggle (knowledge)](https://github.com/MariusEtudiant/Prediction-Loan-Approval)
+The objective for this competition is to predict whether an applicant is approved for a loan based on the features provided in the dataset.
+Two different models: logistic regression and neural network
+
 ### [INTRO IA TP](https://github.com/MariusEtudiant/INTRO-IA-TP_L2)
 Ce dépôt regroupe divers travaux pratiques réalisés dans le cadre de ma formation en IA, abordant des thèmes variés.
 Chaque projet inclut des scripts, des notebooks explicatifs, et une analyse des résultats.
