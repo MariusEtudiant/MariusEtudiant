@@ -49,6 +49,9 @@ Développer un système capable de prédire si une paire de rapports de bug soum
 The objective for this competition is to predict whether an applicant is approved for a loan based on the features provided in the dataset.
 Two different models: logistic regression and neural network
 
+### [Titanic KNN Model](https://github.com/MariusEtudiant/Titanic-Dataset-KNN)
+TP(https://gitlab.inria.fr/chxu/python-pour-ia-2024/-/tree/main/Python_pandas_numpy?ref_type=heads)
+
 ### [INTRO IA TP](https://github.com/MariusEtudiant/INTRO-IA-TP_L2)
 Ce dépôt regroupe divers travaux pratiques réalisés dans le cadre de ma formation en IA, abordant des thèmes variés.
 Chaque projet inclut des scripts, des notebooks explicatifs, et une analyse des résultats.
