@@ -65,12 +65,6 @@ Chaque projet inclut des scripts, des notebooks explicatifs, et une analyse des 
 ### [Chat Killer](https://github.com/Mariuscsm06/chat-killer)
 Un projet de programmation système pour ma licence 2. Client-serveur, il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
 
-### [Projet IA](https://github.com/utilisateur/projet2)
-Un projet explorant les concepts d’IA à base de graphes d'états, utilisant Graphviz et DOT.
-
-### [Mon Portfolio](https://github.com/Mariuscsm06/personal-portfolio)
-Un portfolio personnel développé en React, présentant mes projets, compétences et expériences.
-
 ---
 
 ## 📊 Statistiques GitHub
