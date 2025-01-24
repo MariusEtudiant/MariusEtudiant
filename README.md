@@ -40,7 +40,7 @@ Voici quelques faits sur moi :
 
 ---
 
-## 📚 Projets
+## 📚 Principaux Projets
 
 ### [Transformer RNN Translate Project](https://github.com/MariusEtudiant/Transformer-RNN-Translate)
 PDF explicatif du projet + soumission très bientôt !! 
