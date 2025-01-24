@@ -55,7 +55,7 @@ The objective of this challenge is to develop a machine learning model that accu
 The objective for this competition is to predict whether an applicant is approved for a loan based on the features provided in the dataset.
 Two different models: logistic regression and neural network
 
-### [Titanic KNN Model](https://github.com/MariusEtudiant/Titanic-Dataset-KNN)
+### [Titanic KNN Model](https://github.com/MariusEtudiant/Titanic-KNN/tree/main)
 TP(https://gitlab.inria.fr/chxu/python-pour-ia-2024/-/tree/main/Python_pandas_numpy?ref_type=heads)
 
 ### [INTRO IA TP](https://github.com/MariusEtudiant/INTRO-IA-TP_L2)
