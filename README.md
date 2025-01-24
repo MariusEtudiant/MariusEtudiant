@@ -59,7 +59,7 @@ Two different models: logistic regression and neural network
 TP(https://gitlab.inria.fr/chxu/python-pour-ia-2024/-/tree/main/Python_pandas_numpy?ref_type=heads)
 
 ### [Chat Killer](https://github.com/Mariuscsm06/chat-killer)
-Un projet de programmation système pour ma licence 2. Client-serveur, il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
+Un projet de programmation système. Client-serveur, il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
 
 ---
 
