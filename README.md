@@ -48,6 +48,9 @@ PDF explicatif du projet + soumission très bientôt !!
 ### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
 Développer un système capable de prédire si une paire de rapports de bug soumis sont dupliqués ou non. Ce système pourra être intégré dans un BTS pour identifier automatiquement les rapports dupliqués et améliorer la gestion des bugs.
 
+### [African Credit Scoring Challenge](https://github.com/MariusEtudiant/African-Credit-Scoring-Challenge)
+The objective of this challenge is to develop a machine learning model that accurately predicts the probability of loan default.
+
 ### [Predict Loan Approval Kaggle (knowledge)](https://github.com/MariusEtudiant/Prediction-Loan-Approval)
 The objective for this competition is to predict whether an applicant is approved for a loan based on the features provided in the dataset.
 Two different models: logistic regression and neural network
