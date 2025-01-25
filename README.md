@@ -43,7 +43,7 @@ Voici quelques faits sur moi :
 ## 📚 Principaux Projets
 
 ### [Transformer RNN Translate Project](https://github.com/MariusEtudiant/Transformer-RNN-MachineTranslation)
-PDF explicatif du projet + soumission très bientôt !! 
+Explanation in pdf and first submission, evolution and improvements coming soon
 
 ### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
 Développer un système capable de prédire si une paire de rapports de bug soumis sont dupliqués ou non. Ce système pourra être intégré dans un BTS pour identifier automatiquement les rapports dupliqués et améliorer la gestion des bugs.
