@@ -42,7 +42,7 @@ Voici quelques faits sur moi :
 
 ## 📚 Principaux Projets
 
-### [Transformer RNN Translate Project](https://github.com/MariusEtudiant/Transformer-RNN-Translate)
+### [Transformer RNN Translate Project](https://github.com/MariusEtudiant/Transformer-RNN-MachineTranslation)
 PDF explicatif du projet + soumission très bientôt !! 
 
 ### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
