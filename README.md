@@ -6,6 +6,7 @@ Je suis un étudiant en licence diplômé d'**Intelligence Artificielle** à l'U
 Toujours curieux et motivé, j’aime apprendre de nouvelles compétences et relever des défis intéressants. 
 Voici quelques faits sur moi :
 
+- Chercheur d'alpha sur le tournoi **Numerai** regarde mon profil: https://numer.ai/~m1000
 - 🌱 Je me forme activement en intelligence artificielle, où je conçois et déploie des modèles de **machine learning** et de **deep learning**, tout en me spécialisant dans les langages **Python** et **R** et **SQL** **C**.
 - 💼 À la recherche d’opportunités de **stage** en **IA** **Data Science** ou en **Quant**.
 - 🎓 Étudiant diplomé en IA - [Université Sophia Antipolis](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) et actuellement bac+4 en mathématique fi
