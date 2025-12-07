@@ -6,19 +6,17 @@ I am a bachelor's degree student in **Artificial Intelligence** at the Universit
 Always curious and motivated, I enjoy learning new skills and taking on interesting challenges. 
 Here are a few facts about me:
 
-- Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
-- 🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
-- 💼 Looking for **internship** opportunities in **AI**, **Data Science**, or **Quant**.
-- 🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) and currently in my fourth year of mathematics studies
-- 🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
+🗿 Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
+🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
+💼 Looking for **internship** opportunities in **AI**, **Data Science**, or **Quant**.
+🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) and currently in my fourth year of mathematics studies
+🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
 
 ---
 
 ## 🔧 Skills
 
 ### Programming Languages & SKILLS
-
-Translated with DeepL.com (free version)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
@@ -43,7 +41,7 @@ Translated with DeepL.com (free version)
 
 ---
 
-## 📚 Principaux Projets
+## 📚 Main Projects
 
 ## [Robotique Reinforcment learning](https://github.com/MariusEtudiant/RobotiqueRL)
 This project implements an intelligent agent capable of learning to navigate a discrete environment using the Q-learning algorithm. 
@@ -71,7 +69,7 @@ Un projet de programmation système. Client-serveur, il inclut des commandes com
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Stats GitHub
 
 ![Marius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariuscsm06&show_icons=true&theme=radical)
 
@@ -79,17 +77,17 @@ Un projet de programmation système. Client-serveur, il inclut des commandes com
 
 ---
 
-## 🔗 Liens
+## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/marius-casamian-a03b7926a)
 - [Portfolio](https://mariuscsm06.github.io/react-portfolio/)
 
 ---
 
-## 📧 Contact
+## 📧 Contacts
 
-Pour toute question ou opportunité, vous pouvez me joindre par email à marius.casamian@etu.unice.fr
+For any questions or opportunities, you can reach me by email at marius.casamian@etu.unice.fr
 
 ---
 
-© 2024 Marius - Tous droits réservés.
+© 2024 Marius -  All rights reserved.
