@@ -1,22 +1,24 @@
-# Bonjour, je suis Marius! 👋
+# Hello, I'm Marius! 👋
 
-## 🚀 À propos de moi
+## 🚀 About me
 
-Je suis un étudiant en licence diplômé d'**Intelligence Artificielle** à l'Université Nice Sophia Antipolis, passionné par la technologie et le développement. 
-Toujours curieux et motivé, j’aime apprendre de nouvelles compétences et relever des défis intéressants. 
-Voici quelques faits sur moi :
+I am a bachelor's degree student in **Artificial Intelligence** at the University of Nice Sophia Antipolis, passionate about technology and development. 
+Always curious and motivated, I enjoy learning new skills and taking on interesting challenges. 
+Here are a few facts about me:
 
-- Chercheur d'alpha sur le tournoi **Numerai** regarde mon profil: https://numer.ai/~m1000
-- 🌱 Je me forme activement en intelligence artificielle, où je conçois et déploie des modèles de **machine learning** et de **deep learning**, tout en me spécialisant dans les langages **Python** et **R** et **SQL** **C**.
-- 💼 À la recherche d’opportunités de **stage** en **IA** **Data Science** ou en **Quant**.
-- 🎓 Étudiant diplomé en IA - [Université Sophia Antipolis](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) et actuellement bac+4 en mathématique fi
-- 🌐 Découvrez [mon portfolio](https://mariuscsm06.github.io/react-portfolio/) ! (en cours...)
+- Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
+- 🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
+- 💼 Looking for **internship** opportunities in **AI**, **Data Science**, or **Quant**.
+- 🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) and currently in my fourth year of mathematics studies
+- 🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
 
 ---
 
-## 🔧 Compétences
+## 🔧 Skills
 
-### Langages de Programmation & SKILLS
+### Programming Languages & SKILLS
+
+Translated with DeepL.com (free version)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
