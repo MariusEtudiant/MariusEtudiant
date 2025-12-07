@@ -6,11 +6,11 @@ I am a bachelor's degree student in **Artificial Intelligence** at the Universit
 Always curious and motivated, I enjoy learning new skills and taking on interesting challenges. 
 Here are a few facts about me:
 
--🗿 Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
--🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
--💼 Looking for **internship** opportunities in **AI**, **Data Science**, or **Quant**.
--🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) and currently in my fourth year of mathematics studies
--🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
+🗿 Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
+🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
+💼 Looking for **internship** opportunities in **AI**, **Data Science**, or **Quant**.
+🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) and currently in my fourth year of mathematics studies
+🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
 
 ---
 
