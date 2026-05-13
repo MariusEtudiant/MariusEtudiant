@@ -8,7 +8,7 @@ Here are a few facts about me:
 
 🗿 Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
 🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
-💼 Looking for **internship** opportunities in **AI**, **Data Science**, or **Quant**.
+💼 Looking for **IT** opportunities in **AI/Tech/Support**, **Data Science**, or **IT**.
 🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) and currently in my fourth year of mathematics studies
 🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
 
