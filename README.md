@@ -9,14 +9,17 @@ the control centre of Nice Côte d'Azur Airport, a strong interest in markets.
 
 Python · SQL · dbt · DuckDB · Power BI (DAX) · FastAPI · Excel · Git / GitHub Actions · Java
 
+TOEIC 810 / 990 (2026) · French (native), English, Spanish
+
 ## Projects
 
 | Project | What it shows | Result |
 |---|---|---|
 | [**Hedging a crypto OTC clip**](https://github.com/MariusEtudiant/otc-execution-cost) | Live order books of Binance, Coinbase and Kraken, six months of history, Excel pricer | Routing a 5 M$ clip across three venues halves its cost |
 | [**Fleet data product (YEGO)**](https://github.com/MariusEtudiant/yego-nice-ops) | API collection, dbt with 31 tests, star schema, Power BI, FastAPI, CI | 88% of battery swaps happen after the evening demand peak |
+| [**ANNITIA Challenge 2026**](https://github.com/MariusEtudiant/annitia-masld-survival) | Survival models for liver disease risk, leak-proof features, Cox and boosting ensembles | Public leaderboard C-index 0.9135 |
 | [**PRC Data Challenge 2026**](https://github.com/MariusEtudiant/prc-data-challenge-2026) | Taxi-out prediction at ten European airports, 4 million movements, ADS-B | 96th of 242 teams |
-| [**Multi-agent traffic simulation**](https://github.com/MariusEtudiant/Multi-Agent-Traffic-Simulation) | BDI agents, MDP-controlled traffic lights, Dung argumentation (Java) | |
+| [**Multi-agent traffic simulation**](https://github.com/MariusEtudiant/Multi-Agent-Traffic-Simulation) | BDI agents, MDP-controlled traffic lights, Dung argumentation (Java, JavaFX) | Three decision techniques in one simulator |
 | [**Q-learning vs the exact optimum**](https://github.com/MariusEtudiant/RobotiqueRL) | Learned policy checked against value iteration | Optimal path from 75% of cells, not 99% |
 | [**Loan default prediction**](https://github.com/MariusEtudiant/African-Credit-Scoring-Challenge) | 1.8% defaults, Optuna search over models and resampling | F1 0.89 on validation, 0.71 on a new country |
 | [**SMS spam detection**](https://github.com/MariusEtudiant/Spam-Detector) | Seven classifiers on text and structural features | SVM: F1 0.95 |
