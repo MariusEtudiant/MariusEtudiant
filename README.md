@@ -1,92 +1,44 @@
-# Hello, I'm Marius! 👋
+# Marius Casamian
 
-## 🚀 About me
+Data and markets. Bachelor's degree in Artificial Intelligence (Université Côte d'Azur, Nice),
+operations experience at the control centre of Nice Côte d'Azur Airport. I build data
+pipelines end to end, from API collection to models, dashboards and decisions.
 
-I am a bachelor's degree student in **Artificial Intelligence** at the University of Nice Sophia Antipolis, passionate about technology and development. 
-Always curious and motivated, I enjoy learning new skills and taking on interesting challenges. 
-Here are a few facts about me:
+Python · SQL · dbt · DuckDB · Power BI (DAX) · FastAPI · Excel · Git / GitHub Actions · Java
 
-🗿 Alpha seeker on the **Numerai** tournament. View my profile: https://numer.ai/~m1000
-🌱 I am actively training in artificial intelligence, where I design and deploy **machine learning** and **deep learning** models, while specializing in **Python**, **R**, **SQL**, and **C** languages.
-🎓 AI graduate student - [Sophia Antipolis University](https://univ-cotedazur.fr/formation/offre-de-formation/licence-intelligence-artificielle) 
-🌐 Check out [my portfolio](https://mariuscsm06.github.io/react-portfolio/)! (in progress...)
+## Projects
 
----
+### [Hedging a crypto OTC clip](https://github.com/MariusEtudiant/otc-execution-cost)
+What it costs to hedge a 1–10 M$ BTC or ETH block on Binance, Coinbase and Kraken, and when.
+Live order book snapshots every minute, six months of 1-minute history, and an Excel pricer
+with live formulas. Routing across three venues halves the cost of a 5 M$ clip; New York open
+is the only real liquidity peak; each venue follows its home time zone.
 
-## 🔧 Skills
+### [YEGO fleet data product](https://github.com/MariusEtudiant/yego-nice-ops)
+E-scooter fleets of Nice and Barcelona from the operator's public GBFS API: dbt models with 31
+data tests, a star schema, a Power BI semantic model with DAX measures, a FastAPI service with a
+web map, and CI on every push. Found that battery swaps happen after the evening demand peak.
 
-### Programming Languages & SKILLS
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![Prolog](https://img.shields.io/badge/-Prolog-333333?style=flat&logo=prolog)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![OOP](https://img.shields.io/badge/-Programmation%20Orient%C3%A9e%20Objet-333333?style=flat&logo=c%2B%2B)
-![Statistiques](https://img.shields.io/badge/-Statistiques-333333?style=flat&logo=r)
+### [PRC Data Challenge 2026](https://github.com/MariusEtudiant/prc-data-challenge-2026)
+EUROCONTROL / OpenSky challenge: predicting taxi-out times at ten European airports from
+4 million flight movements, weather and ADS-B surface tracks. 96th of 242 teams (RMSE 282 s).
 
+### [Multi-agent traffic simulation](https://github.com/MariusEtudiant/Multi-Agent-Traffic-Simulation)
+Java simulator with BDI vehicles, traffic lights controlled by a Markov decision process
+(value iteration), and transport-mode choice by Dung argumentation.
 
+### [Q-learning vs the exact optimum](https://github.com/MariusEtudiant/RobotiqueRL)
+A Q-learning agent in a maze, checked cell by cell against the optimal policy from value
+iteration: it reaches the base from 99% of cells, but follows an optimal path from only 75%.
 
+### Earlier coursework
+[African credit scoring](https://github.com/MariusEtudiant/African-Credit-Scoring-Challenge) ·
+[Duplicate bug reports](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse) ·
+[Spam detector](https://github.com/MariusEtudiant/Spam-Detector) ·
+[Transformer vs RNN translation](https://github.com/MariusEtudiant/Transformer-RNN-MachineTranslation) ·
+[Loan approval](https://github.com/MariusEtudiant/Prediction-Loan-Approval)
 
-### Machine Learning & IA
+## Elsewhere
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat&logo=huggingface)
-![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
-
-
-
----
-
-## 📚 Main Projects
-
-## [Robotique Reinforcment learning](https://github.com/MariusEtudiant/RobotiqueRL)
-This project implements an intelligent agent capable of learning to navigate a discrete environment using the Q-learning algorithm. 
-The agent learns to reach a base while avoiding the walls of a manually coded maze. Read the pdf for more explanations.
-
-### [Multi Agent Traffic Simulation](https://github.com/MariusEtudiant/Multi-Agent-Traffic-Simulation/tree/master#)
-Explanation in pdf, Multi-Agent Traffic Simulation with BDI Agents Project Overview A Java-based traffic simulator where autonomous vehicles (BDI agents) 
-navigate urban environments using logical reasoning. Agents make decisions based on perceptions of traffic lights, obstacles, and other vehicles.
-
-### [ML Duplicate Bug Reports ELLIPSE](https://github.com/MariusEtudiant/ML-Duplicate-Bug-Report-Ellipse)
-Développer un système capable de prédire si une paire de rapports de bug soumis sont dupliqués ou non. Ce système pourra être intégré dans un BTS pour identifier automatiquement les rapports dupliqués et améliorer la gestion des bugs.
-
-### [African Credit Scoring Challenge](https://github.com/MariusEtudiant/African-Credit-Scoring-Challenge)
-The objective of this challenge is to develop a machine learning model that accurately predicts the probability of loan default.
-
-### [Predict Loan Approval Kaggle (knowledge)](https://github.com/MariusEtudiant/Prediction-Loan-Approval)
-The objective for this competition is to predict whether an applicant is approved for a loan based on the features provided in the dataset.
-Two different models: logistic regression and neural network
-
-### [Titanic KNN Model](https://github.com/MariusEtudiant/Titanic-KNN/tree/main)
-TP(https://gitlab.inria.fr/chxu/python-pour-ia-2024/-/tree/main/Python_pandas_numpy?ref_type=heads)
-
-### [Chat Killer](https://github.com/Mariuscsm06/chat-killer)
-Un projet de programmation système. Client-serveur, il inclut des commandes comme `!start`, `!list`, `@pseudo !ban`, ainsi que la gestion des messages publics et privés.
-
----
-
-## 📊 Stats GitHub
-
-![Marius' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariuscsm06&show_icons=true&theme=radical)
-
-![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariuscsm06&layout=compact&theme=radical)
-
----
-
-## 🔗 Links
-
-- [LinkedIn](https://www.linkedin.com/in/marius-casamian-a03b7926a)
-- [Portfolio](https://mariuscsm06.github.io/react-portfolio/)
-
----
-
-## 📧 Contacts
-
-For any questions or opportunities, you can reach me by email at marius.casamian@etu.unice.fr
-
----
-
-© 2024 Marius -  All rights reserved.
+- Numerai tournament: [numer.ai/~m1000](https://numer.ai/~m1000)
+- [LinkedIn](https://www.linkedin.com/in/marius-casamian-a03b7926a) · marius.casamian06@gmail.com
