@@ -4,7 +4,7 @@ I build data pipelines end to end, from API collection to models, dashboards and
 Bachelor's degree in Artificial Intelligence (Université Côte d'Azur), operations experience at
 the control centre of Nice Côte d'Azur Airport, a strong interest in markets.
 
-**Open to VIE positions from January 2027: data, BI, markets.**
+**Open to VIE positions from December 2026: data, BI, markets.**
 [Portfolio](https://mariusetudiant.github.io) · [LinkedIn](https://www.linkedin.com/in/marius-casamian-a03b7926a) · marius.casamian06@gmail.com
 
 Python · SQL · dbt · DuckDB · Power BI (DAX) · FastAPI · Excel · Git / GitHub Actions · Java
@@ -21,8 +21,8 @@ Python · SQL · dbt · DuckDB · Power BI (DAX) · FastAPI · Excel · Git / Gi
 | [**No Second Guessing**](https://github.com/MariusEtudiant/no-second-guessing) | Petrophysics on 800 wells: curve resolver, Archie, physics gates, trap-well detection | 343 trap wells flagged, leaderboard 34.12 |
 | [**PRC Data Challenge 2026**](https://github.com/MariusEtudiant/prc-data-challenge-2026) | Taxi-out prediction at ten European airports, 4 million movements, ADS-B | 96th of 242 teams |
 | [**Multi-agent traffic simulation**](https://github.com/MariusEtudiant/Multi-Agent-Traffic-Simulation) | BDI agents, MDP-controlled traffic lights, Dung argumentation (Java, JavaFX) | Three decision techniques in one simulator |
-| [**Q-learning vs the exact optimum**](https://github.com/MariusEtudiant/RobotiqueRL) | Learned policy checked against value iteration | Optimal path from 75% of cells, not 99% |
-| [**Loan default prediction**](https://github.com/MariusEtudiant/African-Credit-Scoring-Challenge) | 1.8% defaults, Optuna search over models and resampling | F1 0.89 on validation, 0.71 on a new country |
+| [**Q-learning vs the exact optimum**](https://github.com/MariusEtudiant/RobotiqueRL) | Learned policy checked against value iteration | Reaches the goal from 99% of cells, optimally from 75% |
+| [**Loan default prediction**](https://github.com/MariusEtudiant/African-Credit-Scoring-Challenge) | 1.8% defaults, Optuna search over models and resampling | F1 0.89 on validation, 0.71 on the leaderboard |
 | [**SMS spam detection**](https://github.com/MariusEtudiant/Spam-Detector) | Seven classifiers on text and structural features | SVM: F1 0.95 |
 
 Also: [English–French Transformer](https://github.com/MariusEtudiant/Transformer-RNN-MachineTranslation) ·
