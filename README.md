@@ -4,7 +4,7 @@ I build data pipelines end to end, from API collection to models, dashboards and
 Bachelor's degree in Artificial Intelligence (Université Côte d'Azur), operations experience at
 the control centre of Nice Côte d'Azur Airport, a strong interest in markets.
 
-**Open to VIE positions from December 2026: data, BI, markets.**
+
 [Portfolio](https://mariusetudiant.github.io) · [LinkedIn](https://www.linkedin.com/in/marius-casamian-a03b7926a) · marius.casamian06@gmail.com
 
 Python · SQL · dbt · DuckDB · Power BI (DAX) · FastAPI · Excel · Git / GitHub Actions · Java
